@@ -1,2 +1,2 @@
 # detecting_roads
-Here is the dataset and python code necessary for detecting the roads using CNN
+Here is the python code using jupyter notebook necessary for detecting the roads using CNN
